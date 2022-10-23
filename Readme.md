@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Artem Korshunov](https://up.htmlacademy.ru/javascript/27/user/643561).
-* Наставник: `Неизвестно`.
+* Наставник: [Pavel Lukin](https://htmlacademy.ru/profile/id1313529).
 
 ---
 
